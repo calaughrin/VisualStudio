@@ -1,0 +1,3 @@
+﻿  CH1PC.cpp
+c:\users\calau\source\repos\visualstudio\ch1pc\ch1pc\ch1pc.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CH1PC.vcxproj -> c:\Users\calau\source\repos\VisualStudio\CH1PC\Debug\CH1PC.exe
