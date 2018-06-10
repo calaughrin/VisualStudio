@@ -1,0 +1,4 @@
+﻿  matrixG.cpp
+c:\users\craig laughrin\source\repos\matrixg\matrixg\matrixg.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\craig laughrin\source\repos\matrixg\matrixg\matrixg.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  matrixG.vcxproj -> C:\Users\Craig Laughrin\source\repos\matrixG\Debug\matrixG.exe

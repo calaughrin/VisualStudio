@@ -1,0 +1,7 @@
+﻿  structArray.cpp
+c:\users\craig laughrin\source\repos\structarray\structarray\structarray.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\craig laughrin\source\repos\structarray\structarray\structarray.cpp(35): warning C4778: 'printf' : unterminated format string '%8.2\n'
+c:\users\craig laughrin\source\repos\structarray\structarray\structarray.cpp(35): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\craig laughrin\source\repos\structarray\structarray\structarray.cpp(35): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\craig laughrin\source\repos\structarray\structarray\structarray.cpp(15): warning C4101: 'total': unreferenced local variable
+  structArray.vcxproj -> C:\Users\Craig Laughrin\source\repos\structArray\Debug\structArray.exe

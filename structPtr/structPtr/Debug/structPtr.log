@@ -1,0 +1,3 @@
+﻿  structPtr.cpp
+c:\users\craig laughrin\source\repos\structptr\structptr\structptr.cpp(12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  structPtr.vcxproj -> C:\Users\Craig Laughrin\source\repos\structPtr\Debug\structPtr.exe

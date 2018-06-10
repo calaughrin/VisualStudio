@@ -1,0 +1,3 @@
+﻿  VectorSum.cpp
+c:\users\craig laughrin\source\repos\vectorsum\vectorsum\vectorsum.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  VectorSum.vcxproj -> C:\Users\Craig Laughrin\source\repos\VectorSum\Debug\VectorSum.exe

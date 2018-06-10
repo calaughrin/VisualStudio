@@ -1,0 +1,4 @@
+﻿  SimpPointer.cpp
+c:\users\craig laughrin\source\repos\simppointer\simppointer\simppointer.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\craig laughrin\source\repos\simppointer\simppointer\simppointer.cpp(18): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+  SimpPointer.vcxproj -> C:\Users\Craig Laughrin\source\repos\SimpPointer\Debug\SimpPointer.exe
