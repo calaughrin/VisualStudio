@@ -1,0 +1,4 @@
+﻿  CH1PC.cpp
+c:\users\calau\source\repos\visualstudio\ch1pc\ch1pc\ch1pc.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\calau\source\repos\visualstudio\ch1pc\ch1pc\ch1pc.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CH1PC.vcxproj -> C:\Users\calau\source\repos\VisualStudio\CH1PC\x64\Debug\CH1PC.exe
