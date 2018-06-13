@@ -1,0 +1,4 @@
+﻿  3dArray.cpp
+c:\users\craig laughrin\source\repos\visualstudio\3darray\3darray\3darray.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\craig laughrin\source\repos\visualstudio\3darray\3darray\3darray.cpp(18): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  3dArray.vcxproj -> C:\Users\Craig Laughrin\source\repos\VisualStudio\3dArray\Debug\3dArray.exe
